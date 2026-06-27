@@ -411,4 +411,9 @@ a {
     width:763px;
     height: 738px;
     }
+
+.stock{
+    max-width: 366px;
+    height: auto;
+}
 }
